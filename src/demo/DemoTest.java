@@ -4,7 +4,6 @@ public class DemoTest {
 	
 	public static void addNumbers(int a, int b) {
 		
-		System.out.println("Numbers are: " a+ b );
 
 		
 	}
@@ -14,5 +13,9 @@ public class DemoTest {
 		System.out.println("My address is: " + name);
 	}
 
-	public void 
+	public void madechanges() {
+		
+		System.out.println("I Made some changes");
+		System.out.println("I made additional changes");
+	}
 }
